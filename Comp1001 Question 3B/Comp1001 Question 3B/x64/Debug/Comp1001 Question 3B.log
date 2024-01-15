@@ -1,0 +1,7 @@
+﻿  Main.cpp
+C:\Users\mothy\Documents\GitHub\COMP1001\Comp1001 Question 3B\Comp1001 Question 3B\Main.cpp(202,39): warning C4474: 'fscanf_s' : too many arguments passed for format string
+  C:\Users\mothy\Documents\GitHub\COMP1001\Comp1001 Question 3B\Comp1001 Question 3B\Main.cpp(202,39):
+  placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  
+C:\Users\mothy\Documents\GitHub\COMP1001\Comp1001 Question 3B\Comp1001 Question 3B\Main.cpp(175,6): warning C4101: 'c': unreferenced local variable
+  Comp1001 Question 3B.vcxproj -> C:\Users\mothy\Documents\GitHub\COMP1001\Comp1001 Question 3B\x64\Debug\Comp1001 Question 3B.exe
